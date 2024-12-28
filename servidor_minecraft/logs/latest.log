@@ -42,3 +42,14 @@
 [02:20:04] [Server thread/INFO]: jackox_vUv has made the advancement [Acquire Hardware]
 [02:20:16] [Server thread/INFO]: jackox_vUv lost connection: Disconnected
 [02:20:16] [Server thread/INFO]: jackox_vUv left the game
+[02:23:38] [Server thread/INFO]: Stopping the server
+[02:23:38] [Server thread/INFO]: Stopping server
+[02:23:38] [Server thread/INFO]: Saving players
+[02:23:38] [Server thread/INFO]: Saving worlds
+[02:23:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:23:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:23:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:23:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:23:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:23:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:23:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
