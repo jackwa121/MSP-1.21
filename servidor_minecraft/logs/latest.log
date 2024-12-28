@@ -22,3 +22,7 @@
 [01:30:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@5c762a6b[id=72b8805f-4102-3199-9557-894b54504c4f,name=jackox_vUv,properties={}] lost connection: Disconnected
 [01:30:26] [Server thread/INFO]: jackox_vUv[/127.204.48.118:32949] logged in with entity id 102 at (69.1418823209779, 73.41999998688698, 138.5506692087764)
 [01:30:26] [Server thread/INFO]: jackox_vUv joined the game
+[01:35:29] [Server thread/INFO]: jackox_vUv has made the advancement [Getting an Upgrade]
+[01:41:26] [Server thread/INFO]: jackox_vUv has made the advancement [Monster Hunter]
+[01:46:33] [Server thread/INFO]: jackox_vUv was shot by Skeleton
+[01:48:52] [Server thread/INFO]: jackox_vUv has made the advancement [Fishy Business]
