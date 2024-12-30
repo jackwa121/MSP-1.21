@@ -24,3 +24,6 @@
 [14:29:49] [Server thread/INFO]: [jackox_vUv: Made jackox_vUv no longer a server operator]
 [14:34:26] [Server thread/INFO]: jackox_vUv has made the advancement [Hot Stuff]
 [14:46:09] [Server thread/INFO]: jackox_vUv has made the advancement [Diamonds!]
+[14:58:19] [Server thread/INFO]: Villager cmk['Villager'/116, l='ServerLevel[world]', x=406.72, y=62.52, z=565.72] died, message: 'Villager was slain by Drowned'
+[14:59:33] [Server thread/INFO]: Villager cmk['Villager'/128, l='ServerLevel[world]', x=339.18, y=80.94, z=583.65] died, message: 'Villager hit the ground too hard'
+[15:00:08] [Server thread/INFO]: jackox_vUv has made the advancement [Suit Up]
