@@ -1,35 +1,23 @@
-[05:21:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[05:21:54] [ServerMain/INFO]: Loaded 1290 recipes
-[05:21:55] [ServerMain/INFO]: Loaded 1399 advancements
-[05:21:55] [Server thread/INFO]: Starting minecraft server version 1.21
-[05:21:55] [Server thread/INFO]: Loading properties
-[05:21:55] [Server thread/INFO]: Default game type: SURVIVAL
-[05:21:55] [Server thread/INFO]: Generating keypair
-[05:21:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:21:55] [Server thread/INFO]: Using epoll channel type
-[05:21:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:21:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:21:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:21:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:21:55] [Server thread/INFO]: Preparing level "world"
-[05:21:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:21:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:21:58] [Server thread/INFO]: Time elapsed: 450 ms
-[05:21:58] [Server thread/INFO]: Done (2.867s)! For help, type "help"
-[05:24:26] [Server thread/INFO]: [Not Secure] [Server] awdaw
-[05:24:43] [Server thread/INFO]: [Not Secure] [Server] awdawdawd
-[05:24:43] [Server thread/INFO]: jackox_vUv[/127.204.48.118:57053] logged in with entity id 11 at (395.788388234026, 109.0, 616.002564388453)
-[05:24:43] [Server thread/INFO]: jackox_vUv joined the game
-[05:27:24] [Server thread/INFO]: jackox_vUv lost connection: Disconnected
-[05:27:24] [Server thread/INFO]: jackox_vUv left the game
-[05:27:29] [Server thread/INFO]: Stopping the server
-[05:27:29] [Server thread/INFO]: Stopping server
-[05:27:29] [Server thread/INFO]: Saving players
-[05:27:29] [Server thread/INFO]: Saving worlds
-[05:27:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:27:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[05:27:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[05:27:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:27:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:27:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:27:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:13:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:13:49] [ServerMain/INFO]: Loaded 1290 recipes
+[04:13:49] [ServerMain/INFO]: Loaded 1399 advancements
+[04:13:50] [Server thread/INFO]: Starting minecraft server version 1.21
+[04:13:50] [Server thread/INFO]: Loading properties
+[04:13:50] [Server thread/INFO]: Default game type: SURVIVAL
+[04:13:50] [Server thread/INFO]: Generating keypair
+[04:13:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:13:50] [Server thread/INFO]: Using epoll channel type
+[04:13:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:13:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:13:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:13:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:13:50] [Server thread/INFO]: Preparing level "world"
+[04:13:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:13:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:13:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:13:54] [Server thread/INFO]: Time elapsed: 995 ms
+[04:13:54] [Server thread/INFO]: Done (3.925s)! For help, type "help"
+[04:14:22] [Server thread/INFO]: jackox_vUv[/127.204.48.118:48693] logged in with entity id 11 at (386.1870340006244, 108.9375, 606.2817495528777)
+[04:14:22] [Server thread/INFO]: jackox_vUv joined the game
+[04:15:39] [Server thread/INFO]: jackox_vUv lost connection: Disconnected
+[04:15:39] [Server thread/INFO]: jackox_vUv left the game
