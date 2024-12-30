@@ -28,3 +28,20 @@
 [14:59:33] [Server thread/INFO]: Villager cmk['Villager'/128, l='ServerLevel[world]', x=339.18, y=80.94, z=583.65] died, message: 'Villager hit the ground too hard'
 [15:00:08] [Server thread/INFO]: jackox_vUv has made the advancement [Suit Up]
 [15:17:33] [Server thread/INFO]: jackox_vUv was slain by Zombie
+[16:20:16] [Server thread/INFO]: jackox_vUv lost connection: Disconnected
+[16:20:16] [Server thread/INFO]: jackox_vUv left the game
+[16:20:24] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:20:24] [Server thread/INFO]: STOP<--[HERE]
+[16:20:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:20:25] [Server thread/INFO]: <--[HERE]
+[16:20:29] [Server thread/INFO]: Stopping the server
+[16:20:29] [Server thread/INFO]: Stopping server
+[16:20:29] [Server thread/INFO]: Saving players
+[16:20:29] [Server thread/INFO]: Saving worlds
+[16:20:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:20:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:20:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:20:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:20:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:20:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:20:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
