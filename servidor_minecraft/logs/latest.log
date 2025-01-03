@@ -19,3 +19,17 @@
 [04:10:28] [Server thread/INFO]: jackox_vUv[/127.204.48.118:53089] logged in with entity id 11 at (379.97871625730744, 108.0, 622.6999999880791)
 [04:10:28] [Server thread/INFO]: jackox_vUv joined the game
 [04:24:31] [Server thread/INFO]: jackox_vUv has made the advancement [Sneak 100]
+[05:13:52] [Server thread/INFO]: [Not Secure] <jackox_vUv> zz
+[05:14:14] [Server thread/INFO]: jackox_vUv lost connection: Disconnected
+[05:14:14] [Server thread/INFO]: jackox_vUv left the game
+[05:14:21] [Server thread/INFO]: Stopping the server
+[05:14:21] [Server thread/INFO]: Stopping server
+[05:14:21] [Server thread/INFO]: Saving players
+[05:14:21] [Server thread/INFO]: Saving worlds
+[05:14:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:14:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:14:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:14:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:14:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:14:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:14:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
