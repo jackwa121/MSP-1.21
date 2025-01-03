@@ -1,25 +1,34 @@
-[03:49:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:49:29] [ServerMain/INFO]: Loaded 1290 recipes
-[03:49:30] [ServerMain/INFO]: Loaded 1399 advancements
-[03:49:30] [Server thread/INFO]: Starting minecraft server version 1.21
-[03:49:30] [Server thread/INFO]: Loading properties
-[03:49:30] [Server thread/INFO]: Default game type: SURVIVAL
-[03:49:30] [Server thread/INFO]: Generating keypair
-[03:49:30] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:49:30] [Server thread/INFO]: Using epoll channel type
-[03:49:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:49:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:49:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:49:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:49:30] [Server thread/INFO]: Preparing level "world"
-[03:49:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:49:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:49:34] [Server thread/INFO]: Time elapsed: 420 ms
-[03:49:34] [Server thread/INFO]: Done (3.239s)! For help, type "help"
-[03:50:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:50:04] [Server thread/INFO]: SAY AWDAWD<--[HERE]
-[03:50:09] [Server thread/INFO]: [Not Secure] [Server] awdawd
-[03:54:44] [Server thread/INFO]: [Not Secure] [Server] adawd
-[03:54:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:54:53] [Server thread/INFO]: <--[HERE]
-[03:55:20] [Server thread/INFO]: [Not Secure] [Server] awdawd
+[03:56:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:56:39] [ServerMain/INFO]: Loaded 1290 recipes
+[03:56:39] [ServerMain/INFO]: Loaded 1399 advancements
+[03:56:40] [Server thread/INFO]: Starting minecraft server version 1.21
+[03:56:40] [Server thread/INFO]: Loading properties
+[03:56:40] [Server thread/INFO]: Default game type: SURVIVAL
+[03:56:40] [Server thread/INFO]: Generating keypair
+[03:56:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:56:40] [Server thread/INFO]: Using epoll channel type
+[03:56:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:56:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:56:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:56:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:56:40] [Server thread/INFO]: Preparing level "world"
+[03:56:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:56:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:56:43] [Server thread/INFO]: Time elapsed: 450 ms
+[03:56:43] [Server thread/INFO]: Done (3.028s)! For help, type "help"
+[03:56:54] [Server thread/INFO]: [Not Secure] [Server] adawdaw
+[03:59:58] [Server thread/INFO]: [Not Secure] [Server] awdawdawdawdawd
+[04:00:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[04:00:00] [Server thread/INFO]: asay awdawd<--[HERE]
+[04:00:02] [Server thread/INFO]: [Not Secure] [Server] waaaa
+[04:07:05] [Server thread/INFO]: Stopping the server
+[04:07:05] [Server thread/INFO]: Stopping server
+[04:07:05] [Server thread/INFO]: Saving players
+[04:07:05] [Server thread/INFO]: Saving worlds
+[04:07:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:07:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:07:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
