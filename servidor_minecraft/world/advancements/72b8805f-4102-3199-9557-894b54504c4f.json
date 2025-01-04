@@ -1704,6 +1704,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-04 02:02:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-04 01:56:28 +0000"
@@ -1719,6 +1725,12 @@
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-01-04 01:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-04 02:03:27 +0000"
     },
     "done": true
   },
