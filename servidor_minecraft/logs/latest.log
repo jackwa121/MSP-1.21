@@ -9,3 +9,5 @@
 [02:03:29] [Server thread/INFO]: Villager cmk['Villager'/3014, l='ServerLevel[world]', x=401.31, y=62.60, z=568.56] died, message: 'Villager was slain by Drowned'
 [02:04:00] [Server thread/INFO]: Villager cmk['Villager'/3015, l='ServerLevel[world]', x=401.33, y=62.66, z=568.86] died, message: 'Villager was slain by Drowned'
 [02:29:46] [Server thread/INFO]: jackox_vUv was slain by Iron Golem
+[02:36:11] [Server thread/WARN]: jackox_vUv moved too quickly! -8.444082177445921,0.0,5.745913428137101
+[02:36:38] [Server thread/WARN]: jackox_vUv moved too quickly! -4.075677573456403,2.176759275064242,8.931092336429856
