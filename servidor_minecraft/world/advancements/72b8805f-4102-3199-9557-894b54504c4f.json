@@ -355,7 +355,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-28 02:06:14 +0000",
       "minecraft:zombie": "2024-12-28 01:41:26 +0000",
-      "minecraft:creeper": "2024-12-28 02:03:11 +0000"
+      "minecraft:creeper": "2024-12-28 02:03:11 +0000",
+      "minecraft:hoglin": "2025-01-07 05:01:23 +0000"
     },
     "done": false
   },
@@ -1855,6 +1856,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-01-07 04:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-01-07 05:02:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-01-07 04:31:54 +0000"
@@ -1870,6 +1883,12 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-01-07 04:31:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-07 04:57:48 +0000"
     },
     "done": true
   },
@@ -1933,6 +1952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-07 04:59:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-07 04:16:46 +0000"
@@ -1948,6 +1973,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-07 04:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-07 05:02:59 +0000"
     },
     "done": true
   },
@@ -1972,6 +2003,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-07 04:16:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-07 04:59:17 +0000"
     },
     "done": true
   },
@@ -2023,9 +2060,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-07 05:02:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-07 04:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-07 04:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-07 04:57:48 +0000"
     },
     "done": true
   },
@@ -2050,6 +2105,18 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-07 04:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-07 04:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-07 04:57:48 +0000"
     },
     "done": true
   },
