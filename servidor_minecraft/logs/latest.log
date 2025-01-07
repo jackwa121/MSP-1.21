@@ -50,3 +50,19 @@
 [07:10:19] [Server thread/INFO]: Villager cmk['Villager'/28502, l='ServerLevel[world]', x=364.83, y=99.00, z=622.65] died, message: 'Villager was slain by jackox_vUv'
 [07:14:45] [Server thread/INFO]: jackox_vUv has made the advancement [What a Deal!]
 [07:19:11] [Server thread/INFO]: [jackox_vUv: Gave 1 [Slimeball] to jackox_vUv]
+[07:36:26] [Server thread/INFO]: jackox_vUv has made the advancement [The Parrots and the Bats]
+[07:38:51] [Server thread/INFO]: [jackox_vUv: Gave 2 [Villager Spawn Egg] to jackox_vUv]
+[07:39:16] [Server thread/INFO]: [jackox_vUv: Gave 2 [Villager Spawn Egg] to jackox_vUv]
+[07:41:27] [Server thread/INFO]: jackox_vUv lost connection: Disconnected
+[07:41:27] [Server thread/INFO]: jackox_vUv left the game
+[07:41:31] [Server thread/INFO]: Stopping the server
+[07:41:31] [Server thread/INFO]: Stopping server
+[07:41:31] [Server thread/INFO]: Saving players
+[07:41:31] [Server thread/INFO]: Saving worlds
+[07:41:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:41:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:41:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:41:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:41:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:41:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:41:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
