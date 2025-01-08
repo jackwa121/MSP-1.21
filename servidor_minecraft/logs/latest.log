@@ -1,68 +1,23 @@
-[04:13:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:13:40] [ServerMain/INFO]: Loaded 1290 recipes
-[04:13:40] [ServerMain/INFO]: Loaded 1399 advancements
-[04:13:40] [Server thread/INFO]: Starting minecraft server version 1.21
-[04:13:40] [Server thread/INFO]: Loading properties
-[04:13:40] [Server thread/INFO]: Default game type: SURVIVAL
-[04:13:40] [Server thread/INFO]: Generating keypair
-[04:13:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:13:41] [Server thread/INFO]: Using epoll channel type
-[04:13:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:13:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:13:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:13:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:13:41] [Server thread/INFO]: Preparing level "world"
-[04:13:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:13:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:13:44] [Server thread/INFO]: Time elapsed: 465 ms
-[04:13:44] [Server thread/INFO]: Done (3.216s)! For help, type "help"
-[04:14:07] [Server thread/INFO]: jackox_vUv[/127.204.48.118:39651] logged in with entity id 11 at (352.2479104197396, 104.0, 606.5812260471766)
-[04:14:07] [Server thread/INFO]: jackox_vUv joined the game
-[05:02:53] [Server thread/INFO]: jackox_vUv has made the advancement [Oh Shiny]
-[05:13:56] [Server thread/INFO]: jackox_vUv fell from a high place
-[05:14:19] [Server thread/INFO]: Made jackox_vUv a server operator
-[05:14:28] [Server thread/INFO]: [jackox_vUv: Teleported jackox_vUv to 54.500000, 40.000000, 47.500000]
-[05:14:35] [Server thread/INFO]: [jackox_vUv: Teleported jackox_vUv to 438.500000, 110.000000, 674.500000]
-[05:15:05] [Server thread/INFO]: [jackox_vUv: Teleported jackox_vUv to 54.500000, 40.000000, 47.500000]
-[05:15:36] [Server thread/INFO]: [jackox_vUv: Made jackox_vUv no longer a server operator]
-[05:17:08] [Server thread/INFO]: jackox_vUv burned to death
-[05:17:19] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[05:17:19] [Server thread/INFO]: [A<--[HERE]
-[05:17:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[05:17:23] [Server thread/INFO]: [B[C<--[HERE]
-[05:17:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[05:17:27] [Server thread/INFO]: OP jackox_vUv<--[HERE]
-[05:17:31] [Server thread/INFO]: Made jackox_vUv a server operator
-[05:17:34] [Server thread/INFO]: [jackox_vUv: Teleported jackox_vUv to 438.500000, 110.000000, 674.500000]
-[05:17:54] [Server thread/INFO]: [jackox_vUv: Teleported jackox_vUv to 77.500000, 23.000000, 29.500000]
-[05:23:00] [Server thread/INFO]: [jackox_vUv: Set own game mode to Spectator Mode]
-[05:23:17] [Server thread/INFO]: [jackox_vUv: Set own game mode to Survival Mode]
-[05:23:19] [Server thread/INFO]: [jackox_vUv: Set own game mode to Spectator Mode]
-[05:23:28] [Server thread/INFO]: [jackox_vUv: Set own game mode to Survival Mode]
-[05:25:39] [Server thread/INFO]: [jackox_vUv: Teleported jackox_vUv to 52.500000, 63.000000, 87.500000]
-[05:42:31] [Server thread/INFO]: [jackox_vUv: Set own game mode to Creative Mode]
-[05:42:46] [Server thread/INFO]: [jackox_vUv: Set own game mode to Survival Mode]
-[05:47:11] [Server thread/INFO]: [jackox_vUv: Gave 2 [Sheep Spawn Egg] to jackox_vUv]
-[05:47:18] [Server thread/INFO]: [jackox_vUv: Gave 2 [Sheep Spawn Egg] to jackox_vUv]
-[06:47:12] [Server thread/INFO]: Villager cmk['Farmer'/13797, l='ServerLevel[world]', x=367.29, y=104.19, z=615.56] died, message: 'Farmer was slain by Zombie'
-[06:47:13] [Server thread/INFO]: Villager cmk['Farmer'/13814, l='ServerLevel[world]', x=367.70, y=104.19, z=618.50] died, message: 'Farmer was slain by Zombie'
-[07:01:06] [Server thread/INFO]: Villager cmk['Villager'/35314, l='ServerLevel[world]', x=372.30, y=105.06, z=622.30] died, message: 'Villager was slain by jackox_vUv'
-[07:10:19] [Server thread/INFO]: Villager cmk['Villager'/28502, l='ServerLevel[world]', x=364.83, y=99.00, z=622.65] died, message: 'Villager was slain by jackox_vUv'
-[07:14:45] [Server thread/INFO]: jackox_vUv has made the advancement [What a Deal!]
-[07:19:11] [Server thread/INFO]: [jackox_vUv: Gave 1 [Slimeball] to jackox_vUv]
-[07:36:26] [Server thread/INFO]: jackox_vUv has made the advancement [The Parrots and the Bats]
-[07:38:51] [Server thread/INFO]: [jackox_vUv: Gave 2 [Villager Spawn Egg] to jackox_vUv]
-[07:39:16] [Server thread/INFO]: [jackox_vUv: Gave 2 [Villager Spawn Egg] to jackox_vUv]
-[07:41:27] [Server thread/INFO]: jackox_vUv lost connection: Disconnected
-[07:41:27] [Server thread/INFO]: jackox_vUv left the game
-[07:41:31] [Server thread/INFO]: Stopping the server
-[07:41:31] [Server thread/INFO]: Stopping server
-[07:41:31] [Server thread/INFO]: Saving players
-[07:41:31] [Server thread/INFO]: Saving worlds
-[07:41:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:41:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[07:41:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[07:41:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:41:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:41:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:41:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:50:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:50:56] [ServerMain/INFO]: Loaded 1290 recipes
+[16:50:56] [ServerMain/INFO]: Loaded 1399 advancements
+[16:50:57] [Server thread/INFO]: Starting minecraft server version 1.21
+[16:50:57] [Server thread/INFO]: Loading properties
+[16:50:57] [Server thread/INFO]: Default game type: SURVIVAL
+[16:50:57] [Server thread/INFO]: Generating keypair
+[16:50:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:50:57] [Server thread/INFO]: Using epoll channel type
+[16:50:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:50:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:50:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:50:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:50:57] [Server thread/INFO]: Preparing level "world"
+[16:51:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:51:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:51:01] [Worker-Main-2/INFO]: Preparing spawn area: 36%
+[16:51:01] [Server thread/INFO]: Time elapsed: 545 ms
+[16:51:01] [Server thread/INFO]: Done (4.465s)! For help, type "help"
+[16:53:26] [Server thread/INFO]: jackox_vUv[/127.204.48.118:52181] logged in with entity id 11 at (394.19312884641994, 109.0, 638.0854464287739)
+[16:53:26] [Server thread/INFO]: jackox_vUv joined the game
+[16:54:09] [Server thread/INFO]: jackox_vUv lost connection: Disconnected
+[16:54:09] [Server thread/INFO]: jackox_vUv left the game
