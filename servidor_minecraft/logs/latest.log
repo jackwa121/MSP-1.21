@@ -4,3 +4,19 @@
 [02:16:44] [Server thread/INFO]: [Not Secure] [Server] dwad
 [02:16:53] [Server thread/INFO]: jackox_vUv[/127.204.48.118:53923] logged in with entity id 57037 at (1760.1898881627487, 13.0, 409.1135218170652)
 [02:16:53] [Server thread/INFO]: jackox_vUv joined the game
+[02:43:40] [Server thread/INFO]: [jackox_vUv: Set own game mode to Spectator Mode]
+[02:43:44] [Server thread/WARN]: jackox_vUv moved too quickly! -8.577130243744705,0.0,5.7333324335700695
+[02:43:54] [Server thread/INFO]: [jackox_vUv: Set own game mode to Survival Mode]
+[02:45:33] [Server thread/INFO]: [jackox_vUv: Set own game mode to Spectator Mode]
+[02:45:38] [Server thread/WARN]: jackox_vUv moved too quickly! -8.407951204357232,-3.369388557363097,-4.333101751355855
+[02:45:43] [Server thread/INFO]: [jackox_vUv: Set own game mode to Survival Mode]
+[02:46:10] [Server thread/INFO]: [jackox_vUv: Set own game mode to Spectator Mode]
+[02:46:16] [Server thread/WARN]: jackox_vUv moved too quickly! 9.786815364124323,3.37500013411045,0.11215089338725193
+[02:46:46] [Server thread/WARN]: jackox_vUv moved too quickly! -7.008652421812712,1.356240053892133,-8.284274058078722
+[02:46:47] [Server thread/WARN]: jackox_vUv moved too quickly! -6.564846235109371,0.6840000271797173,-7.756652871432664
+[02:46:50] [Server thread/WARN]: jackox_vUv moved too quickly! -7.54820681203023,0.018975361737055607,-7.603659008691068
+[02:46:55] [Server thread/INFO]: [jackox_vUv: Set own game mode to Survival Mode]
+[02:47:23] [Server thread/INFO]: [jackox_vUv: Set own game mode to Spectator Mode]
+[02:47:52] [Server thread/INFO]: [jackox_vUv: Set own game mode to Survival Mode]
+[02:53:23] [Server thread/WARN]: jackox_vUv moved too quickly! 3.431510126349849,2.0,-9.331868529525252
+[02:53:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1774, y=13, z=420} jd{x=1774, y=12, z=420}
