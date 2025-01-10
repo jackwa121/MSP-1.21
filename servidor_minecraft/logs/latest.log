@@ -56,3 +56,37 @@
 [05:07:42] [Server thread/WARN]: jackox_vUv moved too quickly! 0.46891889364701456,1.1767592750642422,10.081798475327446
 [05:09:12] [Server thread/INFO]: maxgamer1234xd has made the advancement [Monster Hunter]
 [05:17:53] [Server thread/INFO]: maxgamer1234xd has made the advancement [Sneak 100]
+[05:22:54] [Server thread/INFO]: jackox_vUv was obliterated by a sonically-charged shriek
+[05:23:03] [Server thread/INFO]: maxgamer1234xd has made the advancement [Ice Bucket Challenge]
+[05:25:53] [Server thread/INFO]: maxgamer1234xd was slain by Warden
+[05:25:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=65, y=73, z=138}
+[05:25:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=66, y=73, z=139}
+[05:26:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=68, y=74, z=140}
+[05:26:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=76, y=73, z=138}
+[05:26:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=78, y=74, z=138}
+[05:26:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=80, y=74, z=138}
+[05:26:24] [Server thread/INFO]: [jackox_vUv: Teleported maxgamer1234xd to jackox_vUv]
+[05:26:29] [Server thread/INFO]: jackox_vUv was obliterated by a sonically-charged shriek
+[05:27:46] [Server thread/INFO]: maxgamer1234xd was obliterated by a sonically-charged shriek
+[05:27:51] [Server thread/INFO]: [jackox_vUv: Teleported maxgamer1234xd to jackox_vUv]
+[05:27:55] [Server thread/INFO]: maxgamer1234xd has made the advancement [Sweet Dreams]
+[05:32:13] [Server thread/INFO]: maxgamer1234xd has made the advancement [Stone Age]
+[05:34:04] [Server thread/INFO]: maxgamer1234xd was obliterated by a sonically-charged shriek
+[05:34:24] [Server thread/INFO]: jackox_vUv was obliterated by a sonically-charged shriek
+[05:36:42] [Server thread/INFO]: [jackox_vUv: Set own game mode to Creative Mode]
+[05:37:05] [Server thread/INFO]: [jackox_vUv: Set own game mode to Survival Mode]
+[05:38:43] [Server thread/INFO]: jackox_vUv lost connection: Disconnected
+[05:38:43] [Server thread/INFO]: jackox_vUv left the game
+[05:38:45] [Server thread/INFO]: maxgamer1234xd lost connection: Disconnected
+[05:38:45] [Server thread/INFO]: maxgamer1234xd left the game
+[05:39:01] [Server thread/INFO]: Stopping the server
+[05:39:01] [Server thread/INFO]: Stopping server
+[05:39:01] [Server thread/INFO]: Saving players
+[05:39:01] [Server thread/INFO]: Saving worlds
+[05:39:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:39:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:39:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:39:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:39:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:39:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:39:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
